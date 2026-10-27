@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Data Analyst | BCA • MBA | EduBridge Certified Data Analyst**
+**Data Analyst | BCA • MBA | IBM Data Analytics & EduBridge Java Full Stack Certified**
 
 📍 Nicosia, Cyprus | 🌍 Open to Relocation | 🚀 Open to Work
 
@@ -16,9 +16,9 @@
 
 ## 📌 About Me
 
-Data Analyst combining a technical computing background (**Bachelor of Computer Applications - BCA**) with an **MBA from Frederick University** and professional certifications in **Data Analytics** and **Full Stack Java Development** completed from **EduBridge India**. I specialize in translating complex business data into actionable insights through relational database modeling, SQL querying, and interactive reporting.
+Data Analyst combining a core computing foundation (**Bachelor of Computer Applications - BCA**) with an **MBA from Frederick University**, professional **IBM Data Analytics** certification, and **Java Full Stack Development** certification from **EduBridge India**. I specialize in translating complex operational data into actionable business intelligence through robust relational database modeling, automated SQL querying, and interactive dashboarding.
 
-My academic background includes postgraduate research on **"The Ethical Implications of AI-Driven Performance Management,"** which reinforced my skills in quantitative research and performance metrics. I am actively seeking opportunities in **Data Analytics, Business Analytics, BI Reporting, and Data Management**.
+My academic journey includes postgraduate research on **"The Ethical Implications of AI-Driven Performance Management,"** which reinforced my quantitative research rigor and metrics architecture. I am actively seeking opportunities in **Data Analytics, Business Analytics, BI Reporting, and Data Management** where I can engineer reliable data workflows and support executive decision-making.
 
 **Location:** Nicosia, Cyprus | **Available for:** On-site, Hybrid, Remote  
 **Email:** chinthalarajashekar998@gmail.com
@@ -30,20 +30,20 @@ My academic background includes postgraduate research on **"The Ethical Implicat
 | Qualification | Institution | Duration | Details |
 |---|---|---|---|
 | **Master of Business Administration (MBA)** | Frederick University, Cyprus | Sep 2024 – Jun 2026 | Grade: 7.29/10 (Specialization: HR & Project Management) |
-| **Bachelor of Computer Applications (BCA)** | Glocal University | 2019 – 2022 | CGPA: 7.28 (Core: DBMS, Data Structures, OOP through C++, Core Java, Statistics, Full Stack Development) |
+| **Bachelor of Computer Applications (BCA)** | Glocal University | 2019 – 2022 | CGPA: 7.28 (Core: DBMS, Data Structures, OOP through C++, Core Java, Statistics) |
 | **Higher Secondary / Class XII (Intermediate)** | State Board of Intermediate Education | 2017 – 2019 | Higher Secondary Education |
 | **Secondary School Certificate (SSC / Class X)** | State Board of Secondary Education | Completed | Secondary Academic Foundation |
 
 ---
 
-## 🏆 Professional Certifications (EduBridge India)
+## 🏆 Verified Professional Certifications
 
 <div align="center">
 
-| Certification Program | Issuing Organization | Verification Link |
+| Program / Credential | Issuing Organization | Verification Link |
 |---|---|---|
-| 🎖️ **Certification Program in Data Analytics** | EduBridge India (Enrollment No: EBEON1023850952) | http://www.edubridgeindia.com/certificate-detail?enrollment_number=EBEON1023850952 |
-| 🎖️ **Certification Program in Full Stack Java Development** | EduBridge India | http://www.edubridgeindia.com/certificate-detail?enrollment_number=EBEON1023850952 |
+| 🎖️ **Data Analytics Certification** | **IBM** | https://www.credly.com/badges/3bc9a43a-1fef-495b-a336-b058f02bb37b/public_url |
+| 🎖️ **Java Full Stack Development** | **EduBridge India** (Enrollment: EBEON1023850952) | http://www.edubridgeindia.com/certificate-detail?enrollment_number=EBEON1023850952 |
 
 </div>
 
@@ -92,7 +92,7 @@ My academic background includes postgraduate research on **"The Ethical Implicat
 | **☕ Full Stack & Software Design** | Full Stack Java Development, Spring Boot, REST APIs, Object-Oriented Design (OOP), MVC Architecture |
 | **⚙️ Programming & ETL** | Python (Pandas/NumPy), Data Cleaning & Wrangling, Automated Ingestion Pipelines, Shell Scripting |
 | **🔍 Business Acumen** | Requirements Elicitation, Process Optimization, Financial/HR Metric Tracking, Executive Stakeholder Presentations |
-| **🧪 Quantitative Research** | Survey Design, Descriptive & Inferential Statistics, Hypothesis Testing, AI Ethics & Organizational Performance |
+| **🧪 Quantitative Research** | Survey Design, Inferential Statistics, Hypothesis Testing, AI Ethics & Organizational Performance |
 
 ---
 
@@ -103,64 +103,18 @@ My academic background includes postgraduate research on **"The Ethical Implicat
 **Tech Stack:** Snowflake, DataGrip, SQL, Python, Synthetic Data Modeling  
 
 **Objective:**  
-Engineered an end-to-end cloud data warehouse architecture to track player engagement, financial yields, and cohort retention metrics in gaming environments.
+Engineered an end-to-end cloud data warehouse architecture to track player engagement, financial yields, and cohort retention metrics in high-velocity gaming environments.
 
 **Key Achievements:**
-- Designed multi-tier dimensional database schemas (Fact/Dimension tables) optimized for analytical queries.
-- Authored SQL analytical queries calculating Gross Gaming Revenue (GGR), Net Gaming Revenue (NGR), Churn Rate, and ARPU.
-- Built automated Python data generation scripts to simulate multi-table transactional player behavior.
+- Designed multi-tier dimensional database schemas (Fact/Dimension tables) optimized for fast analytical query execution.
+- Authored complex SQL analytical queries calculating Gross Gaming Revenue (GGR), Net Gaming Revenue (NGR), Churn Rate, and Average Revenue Per User (ARPU).
+- Built automated Python data generation scripts to simulate multi-table transactional player behavior and betting streams.
 
 ---
 
-### 🏨 Project 2: Hospitality Management System (Full-Stack Java Project)
-**Duration:** Academic / Training Project  
+### 🏨 Project 2: Hospitality Management System (Full-Stack Java Capstone)
+**Duration:** Full Stack Capstone  
 **Tech Stack:** Java, Spring Boot, Hibernate, MySQL, RESTful APIs, Bootstrap, Git  
 
 **Objective:**  
-Developed an enterprise web application to digitize hotel room bookings, front-desk inventory, and billing operations.
-
-**Key Achievements:**
-- Built secure relational database schemas in MySQL implementing ACID transactions and relational integrity constraints.
-- Integrated role-based access control (RBAC) separating administrative operational controls from customer booking interfaces.
-- Implemented real-time room availability logic to prevent double bookings.
-
----
-
-### 📚 Project 3: MBA Research - AI Ethics & Organizational Performance
-**Institution:** Frederick University  
-**Supervisor:** Dr. Stavros Georgiades  
-
-**Research Title:**  
-**"The Ethical Implications of AI-Driven Performance Management: Balancing Efficiency with Employee Well-being"**
-
-**Key Highlights:**
-- Evaluated quantitative models analyzing algorithmic surveillance, performance bias reduction, and technostress indicators.
-- Formulated data governance frameworks advocating for "human-in-the-loop" accountability in corporate evaluation metrics.
-- Applied statistical methods to synthesize workforce productivity variables against trust metrics.
-
----
-
-## 🚀 Career Objectives
-
-**Target Roles:**
-- 📊 **Data Analyst** (BI, Product, Operations)
-- 📈 **Business Intelligence (BI) Analyst**
-- 💾 **Data Management / Reporting Specialist**
-- 🔍 **Business Analyst (Data & Systems)**
-
-**Work Authorization & Mobility:**
-- 🇨🇾 Cyprus (Resident, Immediate Availability)
-- 🇪🇺 European Union (Open to Relocation)
-- 🏢 On-site, Hybrid, and Remote roles
-
----
-
-## 📞 Connect With Me
-
-<div align="center">
-
-**Email:** [chinthalarajashekar998@gmail.com](mailto:chinthalarajashekar998@gmail.com) • **LinkedIn:** [Rajashekar Chinthala](https://www.linkedin.com/in/rajashekar-chinthala/) • **GitHub:** [Rajashekar098](https://github.com/Rajashekar098)
-
-[![Status](https://img.shields.io/badge/Status-Actively%20Seeking%20Opportunities-success?style=for-the-badge)]()
-
-</div>
+Developed an enterprise full-stack web application to digitize hotel room bookings
